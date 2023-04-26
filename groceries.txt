@@ -3,5 +3,6 @@ bread
 lettuce
 chicken legs
 butter
-eggs
+dozen eggs
 toilet paper
+new item
